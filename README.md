@@ -1,4 +1,4 @@
-Missão da Semana: Explorando Usuários do GitHub 🐈‍⬛ com async/await ⏱️
+Missão da Semana: Explorando Usuários do GitHub com async/await 
 Apresentamos uma nova missão ! Neste exercício, você mergulhará no mundo do GitHub, utilizando async/await para consultar a API e exibir informações de usuários no console.
 
 Passos a Seguir:
